@@ -1,0 +1,2244 @@
+4 9 3 3
+-------------------------------
+# 1
+Assignments: 48
+Time Taken: 89
+Solution: true
+
+# 2
+Assignments: 40
+Time Taken: 32
+Solution: true
+
+# 3
+Assignments: 46
+Time Taken: 26
+Solution: true
+
+# 4
+Assignments: 45
+Time Taken: 19
+Solution: true
+
+# 5
+Assignments: 41
+Time Taken: 17
+Solution: true
+
+# 6
+Assignments: 43
+Time Taken: 20
+Solution: true
+
+# 7
+Assignments: 47
+Time Taken: 7
+Solution: true
+
+# 8
+Assignments: 45
+Time Taken: 9
+Solution: true
+
+# 9
+Assignments: 45
+Time Taken: 4
+Solution: true
+
+# 10
+Assignments: 41
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 441
+Overall Time Taken: 227
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 44.1
+Average Time Taken: 22.7
+Std Dev Time: 33.97548135543238
+Average Solvable: 1.0
+
+8 9 3 3
+-------------------------------
+# 1
+Assignments: 43
+Time Taken: 5
+Solution: true
+
+# 2
+Assignments: 37
+Time Taken: 4
+Solution: true
+
+# 3
+Assignments: 45
+Time Taken: 5
+Solution: true
+
+# 4
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+# 5
+Assignments: 39
+Time Taken: 4
+Solution: true
+
+# 6
+Assignments: 39
+Time Taken: 5
+Solution: true
+
+# 7
+Assignments: 37
+Time Taken: 5
+Solution: true
+
+# 8
+Assignments: 35
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+# 10
+Assignments: 43
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 398
+Overall Time Taken: 44
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 39.8
+Average Time Taken: 4.4
+Std Dev Time: 3.6209268304000717
+Average Solvable: 1.0
+
+12 9 3 3
+-------------------------------
+# 1
+Assignments: 32
+Time Taken: 4
+Solution: true
+
+# 2
+Assignments: 41
+Time Taken: 7
+Solution: true
+
+# 3
+Assignments: 33
+Time Taken: 4
+Solution: true
+
+# 4
+Assignments: 36
+Time Taken: 5
+Solution: true
+
+# 5
+Assignments: 45
+Time Taken: 8
+Solution: true
+
+# 6
+Assignments: 46
+Time Taken: 9
+Solution: true
+
+# 7
+Assignments: 38
+Time Taken: 4
+Solution: true
+
+# 8
+Assignments: 35
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 113
+Time Taken: 18
+Solution: true
+
+# 10
+Assignments: 49
+Time Taken: 5
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 468
+Overall Time Taken: 68
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 46.8
+Average Time Taken: 6.8
+Std Dev Time: 7.4981479194679945
+Average Solvable: 1.0
+
+16 9 3 3
+-------------------------------
+# 1
+Assignments: 624
+Time Taken: 58
+Solution: true
+
+# 2
+Assignments: 613
+Time Taken: 49
+Solution: false
+
+# 3
+Assignments: 25
+Time Taken: 4
+Solution: true
+
+# 4
+Assignments: 90
+Time Taken: 7
+Solution: true
+
+# 5
+Assignments: 32
+Time Taken: 3
+Solution: true
+
+# 6
+Assignments: 231
+Time Taken: 18
+Solution: true
+
+# 7
+Assignments: 1221306
+Time Taken: 100001
+Solution: false
+
+# 8
+Assignments: 229
+Time Taken: 13
+Solution: false
+
+# 9
+Assignments: 32
+Time Taken: 4
+Solution: true
+
+# 10
+Assignments: 44
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 1223226
+Overall Time Taken: 100161
+Overall Solvable: 8
+
+Averages Stats
+------------------------------------
+Average Assignments: 122322.6
+Average Time Taken: 10016.1
+Std Dev Time: 0
+Average Solvable: 0.8
+
+17 9 3 3
+-------------------------------
+# 1
+Assignments: 87
+Time Taken: 8
+Solution: true
+
+# 2
+Assignments: 24
+Time Taken: 3
+Solution: true
+
+# 3
+Assignments: 456
+Time Taken: 38
+Solution: true
+
+# 4
+Assignments: 64
+Time Taken: 5
+Solution: true
+
+# 5
+Assignments: 34
+Time Taken: 4
+Solution: true
+
+# 6
+Assignments: 16
+Time Taken: 3
+Solution: true
+
+# 7
+Assignments: 72
+Time Taken: 5
+Solution: true
+
+# 8
+Assignments: 28
+Time Taken: 2
+Solution: true
+
+# 9
+Assignments: 29
+Time Taken: 2
+Solution: true
+
+# 10
+Assignments: 30
+Time Taken: 3
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 840
+Overall Time Taken: 73
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 84.0
+Average Time Taken: 7.3
+Std Dev Time: 12.793227374930327
+Average Solvable: 1.0
+
+18 9 3 3
+-------------------------------
+# 1
+Assignments: 35
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 23
+Time Taken: 2
+Solution: true
+
+# 3
+Assignments: 24
+Time Taken: 2
+Solution: true
+
+# 4
+Assignments: 25
+Time Taken: 2
+Solution: true
+
+# 5
+Assignments: 19
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 25
+Time Taken: 3
+Solution: true
+
+# 7
+Assignments: 27
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 36
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 26
+Time Taken: 3
+Solution: true
+
+# 10
+Assignments: 69
+Time Taken: 9
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 309
+Overall Time Taken: 32
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 30.9
+Average Time Taken: 3.2
+Std Dev Time: 3.1622776601683795
+Average Solvable: 1.0
+
+19 9 3 3
+-------------------------------
+# 1
+Assignments: 18
+Time Taken: 2
+Solution: true
+
+# 2
+Assignments: 48
+Time Taken: 4
+Solution: true
+
+# 3
+Assignments: 26
+Time Taken: 2
+Solution: true
+
+# 4
+Assignments: 21
+Time Taken: 1
+Solution: true
+
+# 5
+Assignments: 26
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 1072
+Time Taken: 102
+Solution: true
+
+# 7
+Assignments: 25
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 30
+Time Taken: 3
+Solution: true
+
+# 9
+Assignments: 19
+Time Taken: 2
+Solution: false
+
+# 10
+Assignments: 27
+Time Taken: 2
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 1312
+Overall Time Taken: 122
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 131.2
+Average Time Taken: 12.2
+Std Dev Time: 33.69800521626696
+Average Solvable: 1.0
+
+20 9 3 3
+-------------------------------
+# 1
+Assignments: 27
+Time Taken: 2
+Solution: true
+
+# 2
+Assignments: 23
+Time Taken: 3
+Solution: true
+
+# 3
+Assignments: 16
+Time Taken: 1
+Solution: true
+
+# 4
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 5
+Assignments: 36
+Time Taken: 4
+Solution: true
+
+# 6
+Assignments: 51
+Time Taken: 5
+Solution: true
+
+# 7
+Assignments: 21
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 26
+Time Taken: 3
+Solution: true
+
+# 9
+Assignments: 29
+Time Taken: 5
+Solution: true
+
+# 10
+Assignments: 37
+Time Taken: 3
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 271
+Overall Time Taken: 29
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 27.1
+Average Time Taken: 2.9
+Std Dev Time: 2.4720661623652207
+Average Solvable: 1.0
+
+21 9 3 3
+-------------------------------
+# 1
+Assignments: 76
+Time Taken: 7
+Solution: false
+
+# 2
+Assignments: 34
+Time Taken: 3
+Solution: true
+
+# 3
+Assignments: 53
+Time Taken: 5
+Solution: true
+
+# 4
+Assignments: 15
+Time Taken: 1
+Solution: false
+
+# 5
+Assignments: 25
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 630
+Time Taken: 51
+Solution: true
+
+# 7
+Assignments: 59
+Time Taken: 4
+Solution: true
+
+# 8
+Assignments: 285
+Time Taken: 20
+Solution: false
+
+# 9
+Assignments: 6638
+Time Taken: 506
+Solution: true
+
+# 10
+Assignments: 67
+Time Taken: 6
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 7882
+Overall Time Taken: 605
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 788.2
+Average Time Taken: 60.5
+Std Dev Time: 169.3047876201707
+Average Solvable: 1.0
+
+22 9 3 3
+-------------------------------
+# 1
+Assignments: 12
+Time Taken: 1
+Solution: true
+
+# 2
+Assignments: 702
+Time Taken: 46
+Solution: false
+
+# 3
+Assignments: 8527
+Time Taken: 654
+Solution: false
+
+# 4
+Assignments: 595
+Time Taken: 47
+Solution: false
+
+# 5
+Assignments: 4
+Time Taken: 1
+Solution: false
+
+# 6
+Assignments: 192
+Time Taken: 15
+Solution: true
+
+# 7
+Assignments: 89
+Time Taken: 7
+Solution: false
+
+# 8
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 9
+Assignments: 114
+Time Taken: 9
+Solution: false
+
+# 10
+Assignments: 379
+Time Taken: 30
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 10617
+Overall Time Taken: 810
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 1061.7
+Average Time Taken: 81.0
+Std Dev Time: 219.00989323163768
+Average Solvable: 1.0
+
+24 9 3 3
+-------------------------------
+# 1
+Assignments: 20
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 50
+Time Taken: 3
+Solution: false
+
+# 3
+Assignments: 7
+Time Taken: 1
+Solution: false
+
+# 4
+Assignments: 1851
+Time Taken: 137
+Solution: false
+
+# 5
+Assignments: 29
+Time Taken: 2
+Solution: false
+
+# 6
+Assignments: 89
+Time Taken: 6
+Solution: true
+
+# 7
+Assignments: 79
+Time Taken: 7
+Solution: true
+
+# 8
+Assignments: 12
+Time Taken: 0
+Solution: false
+
+# 9
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 10
+Assignments: 6
+Time Taken: 1
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 2144
+Overall Time Taken: 160
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 214.4
+Average Time Taken: 16.0
+Std Dev Time: 45.421482925055535
+Average Solvable: 1.0
+
+28 9 3 3
+-------------------------------
+# 1
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 2
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 3
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 4
+Assignments: 7
+Time Taken: 0
+Solution: false
+
+# 5
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 6
+Assignments: 5
+Time Taken: 0
+Solution: false
+
+# 7
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 8
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 9
+Assignments: 4
+Time Taken: 1
+Solution: false
+
+# 10
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 40
+Overall Time Taken: 6
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 4.0
+Average Time Taken: 0.6
+Std Dev Time: 0.6666666666666666
+Average Solvable: 1.0
+
+32 9 3 3
+-------------------------------
+# 1
+Assignments: 1
+Time Taken: 1
+Solution: false
+
+# 2
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 3
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 5
+Assignments: 5
+Time Taken: 0
+Solution: false
+
+# 6
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 7
+Assignments: 2
+Time Taken: 0
+Solution: false
+
+# 8
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 9
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 10
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 25
+Overall Time Taken: 5
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 2.5
+Average Time Taken: 0.5
+Std Dev Time: 0.7453559924999299
+Average Solvable: 1.0
+
+36 9 3 3
+-------------------------------
+# 1
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 2
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 3
+Assignments: 4
+Time Taken: 1
+Solution: false
+
+# 4
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 5
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 6
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 7
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 8
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 9
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 10
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 19
+Overall Time Taken: 4
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 1.9
+Average Time Taken: 0.4
+Std Dev Time: 0.816496580927726
+Average Solvable: 1.0
+
+4 9 3 3
+-------------------------------
+# 1
+Assignments: 44
+Time Taken: 89
+Solution: true
+
+# 2
+Assignments: 43
+Time Taken: 28
+Solution: true
+
+# 3
+Assignments: 44
+Time Taken: 19
+Solution: true
+
+# 4
+Assignments: 46
+Time Taken: 13
+Solution: true
+
+# 5
+Assignments: 39
+Time Taken: 12
+Solution: true
+
+# 6
+Assignments: 49
+Time Taken: 12
+Solution: true
+
+# 7
+Assignments: 48
+Time Taken: 13
+Solution: true
+
+# 8
+Assignments: 44
+Time Taken: 9
+Solution: true
+
+# 9
+Assignments: 46
+Time Taken: 5
+Solution: true
+
+# 10
+Assignments: 46
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 449
+Overall Time Taken: 204
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 44.9
+Average Time Taken: 20.4
+Std Dev Time: 32.345358588555214
+Average Solvable: 1.0
+
+8 9 3 3
+-------------------------------
+# 1
+Assignments: 36
+Time Taken: 4
+Solution: true
+
+# 2
+Assignments: 88
+Time Taken: 17
+Solution: true
+
+# 3
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+# 4
+Assignments: 35
+Time Taken: 4
+Solution: true
+
+# 5
+Assignments: 38
+Time Taken: 4
+Solution: true
+
+# 6
+Assignments: 45
+Time Taken: 5
+Solution: true
+
+# 7
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+# 8
+Assignments: 36
+Time Taken: 3
+Solution: true
+
+# 9
+Assignments: 41
+Time Taken: 4
+Solution: true
+
+# 10
+Assignments: 41
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 440
+Overall Time Taken: 53
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 44.0
+Average Time Taken: 5.3
+Std Dev Time: 6.137317546507322
+Average Solvable: 1.0
+
+4 9 3 3
+-------------------------------
+# 1
+Assignments: 46
+Time Taken: 91
+Solution: true
+
+# 2
+Assignments: 53
+Time Taken: 34
+Solution: true
+
+# 3
+Assignments: 42
+Time Taken: 16
+Solution: true
+
+# 4
+Assignments: 44
+Time Taken: 17
+Solution: true
+
+# 5
+Assignments: 44
+Time Taken: 14
+Solution: true
+
+# 6
+Assignments: 45
+Time Taken: 9
+Solution: true
+
+# 7
+Assignments: 45
+Time Taken: 14
+Solution: true
+
+# 8
+Assignments: 41
+Time Taken: 9
+Solution: true
+
+# 9
+Assignments: 41
+Time Taken: 8
+Solution: true
+
+# 10
+Assignments: 47
+Time Taken: 6
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 448
+Overall Time Taken: 218
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 44.8
+Average Time Taken: 21.8
+Std Dev Time: 33.68151487751767
+Average Solvable: 1.0
+
+8 9 3 3
+-------------------------------
+# 1
+Assignments: 55
+Time Taken: 9
+Solution: true
+
+# 2
+Assignments: 42
+Time Taken: 8
+Solution: true
+
+# 3
+Assignments: 35
+Time Taken: 6
+Solution: true
+
+# 4
+Assignments: 38
+Time Taken: 6
+Solution: true
+
+# 5
+Assignments: 54
+Time Taken: 6
+Solution: true
+
+# 6
+Assignments: 40
+Time Taken: 6
+Solution: true
+
+# 7
+Assignments: 42
+Time Taken: 8
+Solution: true
+
+# 8
+Assignments: 40
+Time Taken: 6
+Solution: true
+
+# 9
+Assignments: 37
+Time Taken: 4
+Solution: true
+
+# 10
+Assignments: 38
+Time Taken: 6
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 421
+Overall Time Taken: 65
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 42.1
+Average Time Taken: 6.5
+Std Dev Time: 5.9721576223896395
+Average Solvable: 1.0
+
+12 9 3 3
+-------------------------------
+# 1
+Assignments: 33
+Time Taken: 7
+Solution: true
+
+# 2
+Assignments: 138
+Time Taken: 27
+Solution: true
+
+# 3
+Assignments: 37
+Time Taken: 9
+Solution: true
+
+# 4
+Assignments: 37
+Time Taken: 6
+Solution: true
+
+# 5
+Assignments: 40
+Time Taken: 6
+Solution: true
+
+# 6
+Assignments: 35
+Time Taken: 7
+Solution: true
+
+# 7
+Assignments: 33
+Time Taken: 5
+Solution: true
+
+# 8
+Assignments: 34
+Time Taken: 6
+Solution: true
+
+# 9
+Assignments: 34
+Time Taken: 7
+Solution: true
+
+# 10
+Assignments: 32
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 453
+Overall Time Taken: 84
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 45.3
+Average Time Taken: 8.4
+Std Dev Time: 10.263202878893768
+Average Solvable: 1.0
+
+16 9 3 3
+-------------------------------
+# 1
+Assignments: 26
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 71
+Time Taken: 8
+Solution: true
+
+# 3
+Assignments: 38
+Time Taken: 4
+Solution: true
+
+# 4
+Assignments: 31
+Time Taken: 3
+Solution: true
+
+# 5
+Assignments: 39
+Time Taken: 5
+Solution: true
+
+# 6
+Assignments: 39
+Time Taken: 4
+Solution: true
+
+# 7
+Assignments: 23
+Time Taken: 3
+Solution: true
+
+# 8
+Assignments: 75
+Time Taken: 6
+Solution: true
+
+# 9
+Assignments: 18
+Time Taken: 1
+Solution: false
+
+# 10
+Assignments: 155
+Time Taken: 14
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 515
+Overall Time Taken: 51
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 51.5
+Average Time Taken: 5.1
+Std Dev Time: 5.666666666666667
+Average Solvable: 1.0
+
+17 9 3 3
+-------------------------------
+# 1
+Assignments: 264
+Time Taken: 29
+Solution: true
+
+# 2
+Assignments: 31
+Time Taken: 5
+Solution: true
+
+# 3
+Assignments: 1072654
+Time Taken: 82955
+Solution: true
+
+# 4
+Assignments: 37
+Time Taken: 3
+Solution: true
+
+# 5
+Assignments: 26
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 23
+Time Taken: 3
+Solution: true
+
+# 7
+Assignments: 27
+Time Taken: 3
+Solution: true
+
+# 8
+Assignments: 31
+Time Taken: 3
+Solution: true
+
+# 9
+Assignments: 65
+Time Taken: 6
+Solution: true
+
+# 10
+Assignments: 25
+Time Taken: 2
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 1073183
+Overall Time Taken: 83011
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 107318.3
+Average Time Taken: 8301.1
+Std Dev Time: 27651.33502704305
+Average Solvable: 1.0
+
+18 9 3 3
+-------------------------------
+# 1
+Assignments: 25
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 68
+Time Taken: 5
+Solution: true
+
+# 3
+Assignments: 26
+Time Taken: 3
+Solution: true
+
+# 4
+Assignments: 23
+Time Taken: 4
+Solution: true
+
+# 5
+Assignments: 32
+Time Taken: 3
+Solution: true
+
+# 6
+Assignments: 19
+Time Taken: 3
+Solution: true
+
+# 7
+Assignments: 34
+Time Taken: 3
+Solution: true
+
+# 8
+Assignments: 23
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 73
+Time Taken: 6
+Solution: true
+
+# 10
+Assignments: 1955
+Time Taken: 188
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 2278
+Overall Time Taken: 222
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 227.8
+Average Time Taken: 22.2
+Std Dev Time: 62.403703593794994
+Average Solvable: 1.0
+
+19 9 3 3
+-------------------------------
+# 1
+Assignments: 57
+Time Taken: 5
+Solution: false
+
+# 2
+Assignments: 32
+Time Taken: 4
+Solution: true
+
+# 3
+Assignments: 25
+Time Taken: 3
+Solution: true
+
+# 4
+Assignments: 20
+Time Taken: 2
+Solution: true
+
+# 5
+Assignments: 21
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 10659
+Time Taken: 859
+Solution: true
+
+# 7
+Assignments: 44
+Time Taken: 2
+Solution: false
+
+# 8
+Assignments: 337
+Time Taken: 25
+Solution: true
+
+# 9
+Assignments: 23
+Time Taken: 2
+Solution: true
+
+# 10
+Assignments: 55
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 11273
+Overall Time Taken: 908
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 1127.3
+Average Time Taken: 90.8
+Std Dev Time: 286.1200214362264
+Average Solvable: 1.0
+
+20 9 3 3
+-------------------------------
+# 1
+Assignments: 22
+Time Taken: 2
+Solution: true
+
+# 2
+Assignments: 48
+Time Taken: 4
+Solution: false
+
+# 3
+Assignments: 26
+Time Taken: 2
+Solution: true
+
+# 4
+Assignments: 21
+Time Taken: 2
+Solution: true
+
+# 5
+Assignments: 22
+Time Taken: 2
+Solution: true
+
+# 6
+Assignments: 22
+Time Taken: 2
+Solution: true
+
+# 7
+Assignments: 24
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 21
+Time Taken: 2
+Solution: true
+
+# 9
+Assignments: 21
+Time Taken: 2
+Solution: true
+
+# 10
+Assignments: 17
+Time Taken: 3
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 244
+Overall Time Taken: 23
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 24.4
+Average Time Taken: 2.3
+Std Dev Time: 1.5275252316519468
+Average Solvable: 1.0
+
+21 9 3 3
+-------------------------------
+# 1
+Assignments: 20
+Time Taken: 2
+Solution: true
+
+# 2
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 3
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 5
+Assignments: 32
+Time Taken: 3
+Solution: true
+
+# 6
+Assignments: 8
+Time Taken: 1
+Solution: false
+
+# 7
+Assignments: 24
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 20
+Time Taken: 1
+Solution: true
+
+# 9
+Assignments: 194
+Time Taken: 14
+Solution: true
+
+# 10
+Assignments: 13355
+Time Taken: 965
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 13665
+Overall Time Taken: 989
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 1366.5
+Average Time Taken: 98.9
+Std Dev Time: 321.3639335360734
+Average Solvable: 1.0
+
+22 9 3 3
+-------------------------------
+# 1
+Assignments: 310
+Time Taken: 25
+Solution: false
+
+# 2
+Assignments: 24
+Time Taken: 3
+Solution: true
+
+# 3
+Assignments: 2
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 27
+Time Taken: 2
+Solution: false
+
+# 5
+Assignments: 368
+Time Taken: 28
+Solution: true
+
+# 6
+Assignments: 102
+Time Taken: 9
+Solution: true
+
+# 7
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 8
+Assignments: 52
+Time Taken: 4
+Solution: false
+
+# 9
+Assignments: 20
+Time Taken: 3
+Solution: true
+
+# 10
+Assignments: 85
+Time Taken: 11
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 995
+Overall Time Taken: 86
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 99.5
+Average Time Taken: 8.6
+Std Dev Time: 12.858201014657276
+Average Solvable: 1.0
+
+24 9 3 3
+-------------------------------
+# 1
+Assignments: 37
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 18
+Time Taken: 1
+Solution: false
+
+# 3
+Assignments: 5
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 19
+Time Taken: 2
+Solution: true
+
+# 5
+Assignments: 50
+Time Taken: 4
+Solution: true
+
+# 6
+Assignments: 18
+Time Taken: 2
+Solution: true
+
+# 7
+Assignments: 14
+Time Taken: 2
+Solution: true
+
+# 8
+Assignments: 15
+Time Taken: 1
+Solution: false
+
+# 9
+Assignments: 22
+Time Taken: 2
+Solution: true
+
+# 10
+Assignments: 18
+Time Taken: 2
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 216
+Overall Time Taken: 19
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 21.6
+Average Time Taken: 1.9
+Std Dev Time: 1.4529663145135578
+Average Solvable: 1.0
+
+28 9 3 3
+-------------------------------
+# 1
+Assignments: 1
+Time Taken: 1
+Solution: false
+
+# 2
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 3
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 13
+Time Taken: 1
+Solution: false
+
+# 5
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 6
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 7
+Assignments: 5
+Time Taken: 0
+Solution: false
+
+# 8
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 9
+Assignments: 6
+Time Taken: 1
+Solution: false
+
+# 10
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 44
+Overall Time Taken: 6
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 4.4
+Average Time Taken: 0.6
+Std Dev Time: 0.6666666666666666
+Average Solvable: 1.0
+
+32 9 3 3
+-------------------------------
+# 1
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 2
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 3
+Assignments: 2
+Time Taken: 1
+Solution: false
+
+# 4
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 5
+Assignments: 5
+Time Taken: 1
+Solution: false
+
+# 6
+Assignments: 2
+Time Taken: 0
+Solution: false
+
+# 7
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 8
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 9
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 10
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 26
+Overall Time Taken: 3
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 2.6
+Average Time Taken: 0.3
+Std Dev Time: 0.881917103688197
+Average Solvable: 1.0
+
+36 9 3 3
+-------------------------------
+# 1
+Assignments: 2
+Time Taken: 0
+Solution: false
+
+# 2
+Assignments: 2
+Time Taken: 0
+Solution: false
+
+# 3
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 5
+Assignments: 3
+Time Taken: 1
+Solution: false
+
+# 6
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 7
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 8
+Assignments: 1
+Time Taken: 0
+Solution: false
+
+# 9
+Assignments: 3
+Time Taken: 0
+Solution: false
+
+# 10
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 30
+Overall Time Taken: 2
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 3.0
+Average Time Taken: 0.2
+Std Dev Time: 0.9428090415820635
+Average Solvable: 1.0
+
+4 9 3 3
+-------------------------------
+# 1
+Assignments: 48
+Time Taken: 90
+Solution: true
+
+# 2
+Assignments: 42
+Time Taken: 33
+Solution: true
+
+# 3
+Assignments: 42
+Time Taken: 23
+Solution: true
+
+# 4
+Assignments: 47
+Time Taken: 21
+Solution: true
+
+# 5
+Assignments: 47
+Time Taken: 13
+Solution: true
+
+# 6
+Assignments: 46
+Time Taken: 10
+Solution: true
+
+# 7
+Assignments: 48
+Time Taken: 10
+Solution: true
+
+# 8
+Assignments: 46
+Time Taken: 8
+Solution: true
+
+# 9
+Assignments: 43
+Time Taken: 5
+Solution: true
+
+# 10
+Assignments: 50
+Time Taken: 5
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 459
+Overall Time Taken: 218
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 45.9
+Average Time Taken: 21.8
+Std Dev Time: 33.69141004931541
+Average Solvable: 1.0
+
+8 9 3 3
+-------------------------------
+# 1
+Assignments: 39
+Time Taken: 6
+Solution: true
+
+# 2
+Assignments: 38
+Time Taken: 7
+Solution: true
+
+# 3
+Assignments: 37
+Time Taken: 4
+Solution: true
+
+# 4
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+# 5
+Assignments: 46
+Time Taken: 5
+Solution: true
+
+# 6
+Assignments: 39
+Time Taken: 5
+Solution: true
+
+# 7
+Assignments: 40
+Time Taken: 5
+Solution: true
+
+# 8
+Assignments: 38
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 36
+Time Taken: 6
+Solution: true
+
+# 10
+Assignments: 40
+Time Taken: 4
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 393
+Overall Time Taken: 50
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 39.3
+Average Time Taken: 5.0
+Std Dev Time: 4.346134936801766
+Average Solvable: 1.0
+
+12 9 3 3
+-------------------------------
+# 1
+Assignments: 31
+Time Taken: 4
+Solution: true
+
+# 2
+Assignments: 37
+Time Taken: 7
+Solution: true
+
+# 3
+Assignments: 35
+Time Taken: 7
+Solution: true
+
+# 4
+Assignments: 59
+Time Taken: 8
+Solution: true
+
+# 5
+Assignments: 28
+Time Taken: 5
+Solution: true
+
+# 6
+Assignments: 42
+Time Taken: 5
+Solution: true
+
+# 7
+Assignments: 34
+Time Taken: 4
+Solution: true
+
+# 8
+Assignments: 35
+Time Taken: 4
+Solution: true
+
+# 9
+Assignments: 33
+Time Taken: 3
+Solution: true
+
+# 10
+Assignments: 35
+Time Taken: 3
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 369
+Overall Time Taken: 50
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 36.9
+Average Time Taken: 5.0
+Std Dev Time: 4.570436400267362
+Average Solvable: 1.0
+
+16 9 3 3
+-------------------------------
+# 1
+Assignments: 32
+Time Taken: 3
+Solution: true
+
+# 2
+Assignments: 26
+Time Taken: 3
+Solution: true
+
+# 3
+Assignments: 4
+Time Taken: 0
+Solution: false
+
+# 4
+Assignments: 33
+Time Taken: 3
+Solution: true
+
+# 5
+Assignments: 34
+Time Taken: 3
+Solution: true
+
+# 6
+Assignments: 29
+Time Taken: 6
+Solution: true
+
+# 7
+Assignments: 29
+Time Taken: 3
+Solution: true
+
+# 8
+Assignments: 30
+Time Taken: 3
+Solution: true
+
+# 9
+Assignments: 24
+Time Taken: 3
+Solution: true
+
+# 10
+Assignments: 25
+Time Taken: 3
+Solution: true
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 266
+Overall Time Taken: 30
+Overall Solvable: 10
+
+Averages Stats
+------------------------------------
+Average Assignments: 26.6
+Average Time Taken: 3.0
+Std Dev Time: 2.5385910352879693
+Average Solvable: 1.0
+

@@ -1,0 +1,102 @@
+PH1.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC MAC MRV 
+Assignments: 210
+Time Taken: 353
+Solution: true
+Status: success 
+
+PH2.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC MAC MRV 
+Assignments: 4177
+Time Taken: 2941
+Solution: true
+Status: success 
+
+PH3.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC MAC MRV 
+Assignments: 293826
+Time Taken: 173179
+Solution: true
+Status: success 
+
+PH4.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC MAC MRV 
+Assignments: 326230
+Time Taken: 204560
+Solution: true
+Status: success 
+
+PH5.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC MAC MRV 
+Assignments: 144489
+Time Taken: 84001
+Solution: true
+Status: success 
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 768932
+Overall Time Taken: 465034
+
+Averages Stats
+------------------------------------
+Average Assignments: 153786.4
+Average Time Taken: 93006.8
+
+PH1.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC ACP MAC 
+Assignments: 210
+Time Taken: 114
+Solution: true
+Status: success 
+
+PH2.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC ACP MAC 
+Assignments: 4171
+Time Taken: 2758
+Solution: true
+Status: success 
+
+PH3.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC ACP MAC 
+Assignments: 293826
+Time Taken: 173707
+Solution: true
+Status: success 
+
+PH4.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC ACP MAC 
+Assignments: 326230
+Time Taken: 206415
+Solution: true
+Status: success 
+
+PH5.txt
+-------------------------------
+Input :input.txt output.txt 3600 FC ACP MAC 
+Assignments: 144489
+Time Taken: 84442
+Solution: true
+Status: success 
+
+
+Overall Stats
+------------------------------------
+Overall Assignments: 768926
+Overall Time Taken: 467436
+
+Averages Stats
+------------------------------------
+Average Assignments: 153785.2
+Average Time Taken: 93487.2
+
