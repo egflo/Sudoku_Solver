@@ -34,6 +34,7 @@ public class BTSolverExample {
 
 		if(solver.hasSolution())
 		{
+			System.out.println(solver.getNetwork());
 			solver.printSolverStats();
 			System.out.println(solver.getSolution());	
 		}

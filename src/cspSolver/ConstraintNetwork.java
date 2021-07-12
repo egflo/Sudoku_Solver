@@ -86,6 +86,7 @@ public class ConstraintNetwork {
 		return new ArrayList<Variable>(neighbors);
 	}
 	
+	
 	/**
 	 * Used for local search. Determines if the current assignment is consistent.
 	 * @return
