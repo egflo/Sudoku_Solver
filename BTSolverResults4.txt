@@ -1,0 +1,10 @@
+puzzle1:2 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle2:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle3:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle4:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle5:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle6:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle7:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle8:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle9:0 ms, 0 assignments, 0 backtracks Not a Solution
+puzzle10:0 ms, 0 assignments, 0 backtracks Not a Solution
